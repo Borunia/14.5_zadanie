@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Tahoma');
+
+body {
+  font-family: 'Tahoma', sans-serif;
+}
+
+p {
+  margin: 10px 0;
+}
+
+
+.app {
+  width: 900 px;
+  margin-top: 25px;
+  text-align: center;
+}
+
+.contactForm {
+  margin: 10px auto;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  padding: 12px;
+  margin-left: 10px;
+  background-color: lightskyblue;
+  border-style: none;
+  color:blue;
+}
+
+.contactsList {
+  padding: 0;
+}
+
+.contactItem {
+  margin: 25px auto;
+  width: 500px;
+  background-color: lightskyblue;
+  padding: 20px 0 20px 0;
+}
+
+.contactImage {
+  height: 180px;
+  width: 180px;
+}
+
+.contactLabel {
+  color:blue;
+}
