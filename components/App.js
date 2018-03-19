@@ -35,8 +35,3 @@ var App = React.createClass({
     );
   }
 });
-
-
-
-
-
